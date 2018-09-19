@@ -1,6 +1,6 @@
 ## python数据分析之matplotlib ##
 ![](https://i.imgur.com/PFe6cHr.png)
-    参考连接：https://matplotlib.org/（画廊：https://matplotlib.org/gallery.html）
+    参考连接：https://matplotlib.org/ （画廊：https://matplotlib.org/gallery.html）
             
 
 Matplotlib 是 Python 的一个绘图库。它包含了大量的工具，你可以使用这些工具创建各种图形，包括简单的散点图，正弦曲线，甚至是三维图形
