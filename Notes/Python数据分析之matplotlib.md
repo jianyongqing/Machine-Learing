@@ -1,6 +1,6 @@
 ## python数据分析之matplotlib ##
 ![](https://i.imgur.com/PFe6cHr.png)
-    参考连接：https://matplotlib.org/ （画廊：https://matplotlib.org/gallery.html）
+    参考连接：https://matplotlib.org/   画廊：https://matplotlib.org/gallery.html）
             
 
 Matplotlib 是 Python 的一个绘图库。它包含了大量的工具，你可以使用这些工具创建各种图形，包括简单的散点图，正弦曲线，甚至是三维图形
@@ -8,6 +8,7 @@ Matplotlib 是 Python 的一个绘图库。它包含了大量的工具，你可�
     #导入相关库
     import matplotlib.pyplot as plt
     import numpy as np
+
 
 ### 一、画一个简单的图形 ###
 	>> x = np.linspace(0, 2 * np.pi, 50)
@@ -17,24 +18,21 @@ Matplotlib 是 Python 的一个绘图库。它包含了大量的工具，你可�
 	
 ![](https://i.imgur.com/AkBLK2X.png)
 
+
 ### 二、在一张图纸里绘制多个图形 ###
 有时候，可能需要在一个图纸里绘制多个图形，这里我们同时绘制了 (x, y), (x, y * 2)两个图形。
 	
     >>	plt.plot(x, y)
 	>>	plt.plot(x, y * 2)
 	>>	plt.show()
-
+![](https://i.imgur.com/8YI0J7G.jpg)
 绘制出图形之后，我们可以自己调整更多的样式，比如颜色、点、线
 
 	>>	plt.plot(x, y, 'y*-')
 	>>	plt.plot(x, y * 2, 'm--')
 	>>	plt.show()
-	
+![](https://i.imgur.com/7NRHhtM.png)	
 可以看到，设置样式时，就是增加了一个字符串参数，比如 'y*-' ，其中 y 表示黄色，* 表示 星标的点，- 表示实线。
-
-
-
-
 
 
 ### 三、更多设置 ###
@@ -47,7 +45,7 @@ matplotlib的figure就是一个单独的figure小窗口，小窗口里面还可�
 	>>  plt.plot(x, y)
 	>>  plt.plot(x, y * 2)
 	>>  plt.show()
-	
+![](https://i.imgur.com/SShnM5n.png)
 	     
    
 - 设置标题
@@ -55,6 +53,8 @@ matplotlib的figure就是一个单独的figure小窗口，小窗口里面还可�
 直接通过 plt.title 即可设置图形标题
     
     >>  plt.title("sin(x) & 2sin(x)")
+![](https://i.imgur.com/yQDqDyQ.jpg)
+
 
 - 设置坐标轴
 
@@ -65,8 +65,9 @@ matplotlib的figure就是一个单独的figure小窗口，小窗口里面还可�
 	>>  plt.ylim((-3, 3)) #通过xlim和ylim来限定轴的范围 
 	>>  plt.xlabel('X') #通过xlabel和ylabel来设置轴的名称 
 	>>  plt.ylabel('Y') 
-	>>  plt.show() 此外，也可以通过xticks和yticks来设置轴的刻度
-    
+	>>  plt.show()      #此外，也可以通过xticks和yticks来设置轴的刻度
+![](https://i.imgur.com/11cKMol.jpg)    
+
 
 - 设置label和legend
 
@@ -76,7 +77,9 @@ matplotlib的figure就是一个单独的figure小窗口，小窗口里面还可�
 	>>  plt.plot(x, y * 2, label="2sin(x)") #对两条线绘制图例
 	>>  plt.legend(loc='best') #控制图例的位置，best表示自动分配最佳位置
 	>>  plt.show()
-    
+ ![](https://i.imgur.com/lItaXlC.jpg)   
+
+
 - 添加注释
     
 有时候我们需要对特定的点进行标注，我们可以使用 plt.annotate 函数来实现。这里我们要标注的点是 (x0, y0) = (π, 0)。我们也可以使用 plt.text 函数来添加注释。     
