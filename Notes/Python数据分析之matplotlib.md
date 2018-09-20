@@ -68,8 +68,8 @@ matplotlib的figure就是一个单独的figure小窗口，小窗口里面还可�
     >>  plt.plot(x, y) plt.plot(x, y * 2) 
 	>>  plt.xlim((0, np.pi + 1)) 
 	>>  plt.ylim((-3, 3)) #通过xlim和ylim来限定轴的范围 
-	>>  plt.xlabel('X') #通过xlabel和ylabel来设置轴的名称 
-	>>  plt.ylabel('Y') 
+	>>  plt.xlabel('X')  
+	>>  plt.ylabel('Y') #通过xlabel和ylabel来设置轴的名称
 	>>  plt.show()      #此外，也可以通过xticks和yticks来设置轴的刻度
 
 ![](https://i.imgur.com/11cKMol.jpg)    
