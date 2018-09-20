@@ -48,9 +48,8 @@ matplotlib的figure就是一个单独的figure小窗口，小窗口里面还可�
     >>  plt.figure(figsize=(6, 3))
 	>>  plt.plot(x, y)
 	>>  plt.plot(x, y * 2)
-	>>  plt.show()
-![](https://i.imgur.com/SShnM5n.png)
-	     
+	>>  plt.show()	     
+   
    
 - 设置标题
 
@@ -88,7 +87,7 @@ matplotlib的figure就是一个单独的figure小窗口，小窗口里面还可�
 
 - 添加注释
     
-有时候我们需要对特定的点进行标注，我们可以使用 plt.annotate 函数来实现。这里我们要标注的点是 (x0, y0) = (π, 0)。我们也可以使用 plt.text 函数来添加注释。     
+有时候我们需要对特定的点进行标注，我们可以使用 plt.annotate 函数来实现,也可以使用 plt.text 函数来添加注释。     
    
     >>  plt.scatter(x0, y0, s=50) # 画出标注点 
     >>  plt.annotate(......) # 略 
@@ -101,5 +100,7 @@ matplotlib的figure就是一个单独的figure小窗口，小窗口里面还可�
 ### 五、常见的图形 ###
 
 
+### 六、三维图形 ###
 
-### 六、其他操作 ###
+
+### 七、其他操作 ###
