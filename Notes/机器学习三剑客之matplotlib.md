@@ -1,4 +1,4 @@
-## python数据分析之matplotlib ##
+## 机器学习三剑客之matplotlib ##
 
 ![](https://i.imgur.com/PFe6cHr.png)
 
