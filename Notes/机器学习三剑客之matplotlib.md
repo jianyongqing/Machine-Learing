@@ -1,5 +1,3 @@
-## 机器学习三剑客之matplotlib ##
-
 ![](https://i.imgur.com/PFe6cHr.png)
 
    参考连接：https://matplotlib.org/   画廊：（https://matplotlib.org/gallery.html）
