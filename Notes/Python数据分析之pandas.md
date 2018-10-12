@@ -2,6 +2,8 @@
 
 <p style="text-indent:4em">Pandas是一款开放源码的BSD许可的Python库,为Python编程语言提供了高性能，易于使用的数据结构和数据分析工具。Pandas用于广泛的领域，包括金融，经济，统计，分析等学术和商业领域。</p>
 
+<table><tr><td bgcolor=#FF4500>这里的背景色是：OrangeRed，  十六进制颜色值：#FF4500， rgb(255, 69, 0)</td></tr></table>
+
 Pandas的官方网站是： http://pandas.pydata.org/
 
     import numpy as np
