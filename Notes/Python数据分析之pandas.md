@@ -18,7 +18,7 @@ Pandas的官方网站是： http://pandas.pydata.org/
 ### pandas基本功能 ###
 
 ----------
-table><tr><td>因为大多数情况下 DataFrame 比 Series 更为常用，所以这里以 DataFrame 举例说明，但实际上很多常用功能对于 Series 也适用。</td></tr></table>
+<table><tr><td>因为大多数情况下 DataFrame 比 Series 更为常用，所以这里以 DataFrame 举例说明，但实际上很多常用功能对于 Series 也适用。</td></tr></table>
 
 ### pandas IO工具 ###
 
