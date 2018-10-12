@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/tqRqhB2.png)
 
-<table><tr><td>pandas是一款开放源码的BSD许可的Python库,为Python编程语言提供了高性能，易于使用的数据结构和数据分析工具。Pandas用于广泛的领域，包括金融，经济，统计，分析等学术和商业领域。</td></tr></table>
+<table><tr><td>pandas是一款开放源码的BSD许可的Python库,为Python编程语言提供了高性能，易于使用的<br>数据结构和数据分析工具。Pandas用于广泛的领域，包括金融，经济，统计，分析等学术和商业领域。</td></tr></table>
 
 Pandas的官方网站是： http://pandas.pydata.org/
 
