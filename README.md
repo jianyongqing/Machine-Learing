@@ -1,5 +1,5 @@
 ### 一、机器学习简介 ###
-![](https://i.imgur.com/ECP4c4c.png)
+
 - 机器学习应用领域
 
 <table><tr><td>&emsp;&emsp;机器学习已广泛应用于数据挖掘、计算机视觉、自然语言处理、生物特征识别、搜索引擎、医学诊断、检测信用卡欺诈、证券市场分析、DNA序列测序、语音和手写识别、战略游戏和机器人等领域。</table></tr></td>
@@ -41,45 +41,7 @@ NO1.Group by Learn Style
 
 NO2.Group by Similarity
 
-- 回归算法
-
-![](https://i.imgur.com/seD0VAN.png)
-
-- 基于实例的算法
-
-![](https://i.imgur.com/RxsKjcA.png)
-
-- 正则化算法
-
-![](https://i.imgur.com/1MxJKkG.png)
-
-- 决策树算法
-
-![](https://i.imgur.com/R1zu66w.png)
-
-- 贝叶斯算法
-
-![](https://i.imgur.com/IzrYVzM.png)
-
-- 聚类算法
-
-![](https://i.imgur.com/o1LoOd1.png)
-
-- 关联规则算法
-
-![](https://i.imgur.com/JBytdep.png)
-
-- 降维算法
-
-![](https://i.imgur.com/cycaEc9.png)
-
-- 人工神经网络算法
-
-![](https://i.imgur.com/wfgtgY7.png)
-
-- 深度学习算法
-
-![](https://i.imgur.com/iQuLAs2.png)
+![](https://i.imgur.com/ECP4c4c.png)
 
 ### 二、建模与问题解决流程 ###
 
