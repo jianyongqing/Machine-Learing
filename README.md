@@ -4,11 +4,9 @@
 
 <table><tr><td>&emsp;&emsp;机器学习已广泛应用于数据挖掘、计算机视觉、自然语言处理、生物特征识别、搜索引擎、医学诊断、检测信用卡欺诈、证券市场分析、DNA序列测序、语音和手写识别、战略游戏和机器人等领域。</table></tr></td>
 
-![](https://i.imgur.com/NMWaXEz.png)
+![](https://i.imgur.com/gzVGzU5.png)
 
 - 机器学习算法分类
-
-![](https://i.imgur.com/l77Mrlq.jpg)
 
 NO1.Group by Learn Style
 
@@ -64,6 +62,8 @@ NO2.Group by Similarity
 
 - K-means：聚类算法
 
+- K邻近算法
+
 - 支持向量机
 
 - Apriori算法
@@ -76,6 +76,9 @@ NO2.Group by Similarity
 
 - Logistic回归
 
+- 降低维度算法
+
+- Gradient Boost和Adaboost算法
 
 
- 
+
