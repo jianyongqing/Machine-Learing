@@ -8,6 +8,8 @@
 
 - 机器学习算法分类
 
+![](https://i.imgur.com/CLWcIy9.jpg)
+
 NO1.Group by Learn Style
 
 1. 监督学习
