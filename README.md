@@ -10,7 +10,7 @@
 
 NO1.Group by Learn Style
 
-- 监督学习
+1. 监督学习
 
 ![](https://i.imgur.com/kbfgESu.jpg)
 
@@ -19,7 +19,7 @@ NO1.Group by Learn Style
 <br><br>示例问题：分类和回归。<br>示例算法：逻辑回归和反向传播神经网络。
 </table></tr></td>
 
-- 无监督学习
+2. 无监督学习
 
 ![](https://i.imgur.com/z94FZPJ.jpg)
 
@@ -28,7 +28,7 @@ NO1.Group by Learn Style
 <br><br>示例问题：聚类，降维和关联规则学习。<br>示例算法：Apriori算法和k-Means。
 </table></tr></td>
 
-- 半监督学习
+3. 半监督学习
 
 ![](https://i.imgur.com/M3p4g9H.jpg)
 
