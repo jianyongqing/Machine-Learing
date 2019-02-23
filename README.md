@@ -62,6 +62,10 @@ NO2.Group by Similarity
 ### 四、数据预处理 ###
 
 1. 导入需要的库
+```Python
+import numpy as np
+import pandas as pd
+```
 2. 导入数据集
 3. 处理丢失数据
 4. 解析分类数据
