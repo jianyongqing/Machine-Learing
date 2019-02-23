@@ -8,8 +8,6 @@
 
 NO1.Group by Learn Style
 
-![](https://i.imgur.com/NaDIQkp.png)
-
 广义而言，有三种机器学习算法
 
 1. 监督学习
@@ -28,6 +26,8 @@ NO1.Group by Learn Style
 该算法训练机器做出具体的决策。它是这样工作的：机器暴露在一个能让它通过反复试错来训练自己的环境中。该机器利用过去的经验进行学习，并尝试透彻地了解并利用这些知识来做出精确的业务决策。强化学习的例子有：马尔科夫决策过程。
 
 NO2.Group by Similarity
+
+![](https://i.imgur.com/NaDIQkp.png)
 
 ### 二、建模与问题解决流程 ###
 
