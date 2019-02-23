@@ -8,6 +8,8 @@
 
 NO1.Group by Learn Style
 
+![](https://i.imgur.com/NaDIQkp.png)
+
 广义而言，有三种机器学习算法
 
 1. 监督学习
