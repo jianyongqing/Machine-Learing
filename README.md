@@ -57,8 +57,11 @@ NO2.Group by Similarity
 - numpy
 > http://www.numpy.org/
 - pandas
+> http://pandas.pydata.org/
 - matplotlib
+> https://matplotlib.org/
 - scikit-learn
+> https://www.sklearn.org/
 
 ### 四、数据预处理 ###
 
