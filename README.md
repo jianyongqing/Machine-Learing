@@ -55,6 +55,7 @@ NO2.Group by Similarity
 ### 三、机器学习常用工具 ###
 
 - numpy
+> http://www.numpy.org/
 - pandas
 - matplotlib
 - scikit-learn
