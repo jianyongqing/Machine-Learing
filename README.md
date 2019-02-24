@@ -51,6 +51,8 @@ NO2.Group by Similarity
 
 ### 四、数据预处理 ###
 
+![](https://i.imgur.com/WjljTuC.jpg)
+
 1. 导入需要的库
 ```Python
 import numpy as np
