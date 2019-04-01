@@ -7,7 +7,7 @@ Pandas的官方网站是： http://pandas.pydata.org/
     import numpy as np
     import pandas as pd
 
-### pandas数据结构 ###
+## 1.pandas数据结构 ##
 
 ----------
 	
@@ -15,11 +15,11 @@ Pandas的官方网站是： http://pandas.pydata.org/
 
 - DataFrame
 
-### pandas基本功能 ###
+## 2.pandas基本功能 ##
 
 ----------
 <table><tr><td>&emsp;&emsp;因为大多数情况下 DataFrame 比 Series 更为常用，所以这里以 DataFrame 举例说明，但实际上很多常用功能对于 Series 也适用。</td></tr></table>
 
-### pandas IO工具 ###
+## pandas IO工具 ##
 
 ----------
