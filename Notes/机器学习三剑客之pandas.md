@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/tqRqhB2.png)
 
-<table><tr><td>&emsp;&emsp;pandas是一款开放源码的BSD许可的Python库,为Python编程语言提供了高性能，易于使用的数据结构和数据分析工具。Pandas用于广泛的领域，包括金融，经济，统计，分析等学术和商业领域。</td></tr></table>
+>pandas是一款开放源码的BSD许可的Python库,为Python编程语言提供了高性能，易于使用的数据结构和数据分析工具。Pandas用于广泛的领域，包括金融，经济，统计，分析等学术和商业领域。
 
 Pandas的官方网站是： http://pandas.pydata.org/
 	
@@ -8,18 +8,15 @@ Pandas的官方网站是： http://pandas.pydata.org/
     import pandas as pd
 
 ## 1.pandas数据结构 ##
-
-----------
 	
-- Series
+### 1.1 Series ###
 
-- DataFrame
+### 1.2 DataFrame ###
 
 ## 2.pandas基本功能 ##
 
-----------
-<table><tr><td>&emsp;&emsp;因为大多数情况下 DataFrame 比 Series 更为常用，所以这里以 DataFrame 举例说明，但实际上很多常用功能对于 Series 也适用。</td></tr></table>
+>因为大多数情况下 DataFrame 比 Series 更为常用，所以这里以 DataFrame 举例说明，但实际上很多常用功能对于 Series 也适用。
 
-## pandas IO工具 ##
+## 3.pandas IO工具 ##
 
 ----------
