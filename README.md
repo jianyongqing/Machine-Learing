@@ -25,7 +25,7 @@
 
 NO2.Group by Similarity
 
-![](https://i.imgur.com/NaDIQkp.png)
+![](https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%88%86%E7%B1%BB.png)
 
 # 二、建模与问题解决流程
 
