@@ -1,9 +1,9 @@
 # Machine Learning
 
 
-| 走进机器学习的世界 | Machine Learning Tools | 建模与问题解决流程 | 数据预处理 | 特征工程 | 机器学习算法 | 深度学习 | 自然语言处理 | 计算机视觉 | 
+| 走进机器学习的世界 | 机器学习常用工具 | 建模与问题解决流程 | 数据预处理 | 特征工程 | 机器学习算法 | 深度学习 | 自然语言处理 | 计算机视觉 | 
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:|
-| [:fire:](#fire-走进机器学习的世界) | [:memo:](#memo-机器学习工具) |[:watermelon:](#watermelon-建模与问题解决流程) | [:art:](#art-数据预处理) |[:pencil2:](#pencil2-特征工程)|  [:floppy_disk:](#floppy_disk-机器学习算法)| [:computer:](#computer-深度学习)| [:cloud:](#cloud-自然语言处理)| [:bulb:](#bulb-计算机视觉)|
+| [:fire:](#fire-走进机器学习的世界) | [:memo:](#memo-机器学习常用工具) |[:watermelon:](#watermelon-建模与问题解决流程) | [:art:](#art-数据预处理) |[:pencil2:](#pencil2-特征工程)|  [:floppy_disk:](#floppy_disk-机器学习算法)| [:computer:](#computer-深度学习)| [:cloud:](#cloud-自然语言处理)| [:bulb:](#bulb-计算机视觉)|
 
 ## :fire: 走进机器学习的世界
 
@@ -34,7 +34,7 @@ NO2.Group by Similarity
 
 ![](https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%88%86%E7%B1%BB.png)
 
-## :memo: Machine Learning Tools
+## :memo: 机器学习常用工具
 
 - [Numpy](http://www.numpy.org/) 
 
