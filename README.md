@@ -15,6 +15,8 @@
 
 - [Numpy](http://www.numpy.org/) 
 
+  - [Numpy基本操作]()
+
 - [Pandas](http://pandas.pydata.org/) 
 
 - [Matplotlib](https://matplotlib.org/)
