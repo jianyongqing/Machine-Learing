@@ -7,7 +7,7 @@
 
 ## :fire: 走进机器学习的世界
 
-- [走进机器学习的世界]()
+- [走进机器学习的世界](https://github.com/jianyongqing/Machine-Learing/blob/master/Notes/%E8%B5%B0%E8%BF%9B%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%96%E7%95%8C/%E8%B5%B0%E8%BF%9B%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%96%E7%95%8C.md)
 
 ![](https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/ML-all%20around%20us.png)
 
