@@ -7,9 +7,9 @@
 
 ## :fire: 走进机器学习的世界
 
-![](https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/ML-all%20around%20us.png)
-
 - [走进机器学习的世界]()
+
+![](https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/ML-all%20around%20us.png)
 
 ## :memo: 机器学习常用工具
 
