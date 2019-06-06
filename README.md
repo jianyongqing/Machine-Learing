@@ -19,11 +19,11 @@
 
 - Pandas
 
-- [Pandas基本操作]()
+  - [Pandas基本操作](https://github.com/jianyongqing/Machine-Learing/blob/master/Notes/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/Pandas%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
 
 - Matplotlib
 
-- [Matplotlib基本操作](https://github.com/jianyongqing/Machine-Learing/blob/master/Notes/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/Matplotlib%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
+  - [Matplotlib基本操作](https://github.com/jianyongqing/Machine-Learing/blob/master/Notes/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/Matplotlib%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
 
 - scikit-learn
 
