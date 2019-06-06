@@ -1,8 +1,15 @@
-## 一、机器学习简介
+# Machine Learning
+
+
+| 走进机器学习的世界 | Machine Learning Tools | 建模与问题解决流程 | 数据预处理 | 特征工程 | 机器学习算法 | 深度学习 | 自然语言处理 | 计算机视觉 | 
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
+| [:fire:](#fire-走进机器学习的世界) | [:memo:](#memo-Machine Learning Tools)|[:watermelon:](#watermelon-建模与问题解决流程) | [:art:](#art-数据预处理) |[:pencil2:](#pencil2-特征工程)|  [:floppy_disk:](#floppy_disk-机器学习算法)| [:computer:](#computer-深度学习)| [:cloud:](#cloud-自然语言处理)| [:bulb:](#bulb-计算机视觉)|
+
+## :fire: 走进机器学习的世界
 
 > 机器学习已广泛应用于数据挖掘、计算机视觉、自然语言处理、生物特征识别、搜索引擎、医学诊断、检测信用卡欺诈、证券市场分析、DNA序列测序、语音和手写识别、战略游戏和机器人等领域。
 
-## 1.1 机器学习算法分类
+### 1.1 机器学习算法分类
 
 1. Group by Learn Style
 
@@ -27,7 +34,19 @@ NO2.Group by Similarity
 
 ![](https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%88%86%E7%B1%BB.png)
 
-# 二、建模与问题解决流程
+## :memo: Machine Learning Tools
+
+- [Numpy](http://www.numpy.org/) 
+
+- [Pandas](http://pandas.pydata.org/) 
+
+- [Matplotlib](https://matplotlib.org/)
+
+- [scikit-learn](https://www.sklearn.org/)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+## :watermelon: 建模与问题解决流程
 
 1. 数据预处理
 2. 特征工程
@@ -35,26 +54,7 @@ NO2.Group by Similarity
 4. 寻找最佳超参数：交叉验证
 5. 模型分析与模型融合
 
-
-# 三、机器学习常用工具
-
-## 3.1 Numpy
-
-> http://www.numpy.org/
-
-## 3.2 Pandas
-
-> http://pandas.pydata.org/
-
-## 3.3 Matplotlib
-
-> https://matplotlib.org/
-
-## 3.4 scikit-learn
-
-> https://www.sklearn.org/
-
-# 四、数据预处理
+## :art: 数据预处理
 
 ![](https://i.imgur.com/WjljTuC.jpg)
 
@@ -98,11 +98,11 @@ X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.transform(X_test)
 ```
 
-# 五、特征工程
+## :pencil2: 特征工程
 
 ----------
 
-# 五、常用机器学习算法
+# :floppy_disk: 机器学习算法
 
 - 线性回归
 
@@ -134,10 +134,10 @@ X_test = sc_X.transform(X_test)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-### 六、深度学习 ###
+## :computer: 深度学习
 
-### 七、自然语言处理 ###
+## :cloud: 自然语言处理
 
-### 八、计算机视觉 ###
+## :bulb: 计算机视觉 
 
 
