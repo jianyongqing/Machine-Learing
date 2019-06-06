@@ -13,15 +13,15 @@
 
 ## :memo: 机器学习常用工具
 
-- [Numpy](http://www.numpy.org/) 
+- Numpy
 
-  - [Numpy基本操作]()
+  - [Numpy基本操作](https://github.com/jianyongqing/Machine-Learing/blob/master/Notes/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/Numpy%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
 
-- [Pandas](http://pandas.pydata.org/) 
+- Pandas
 
-- [Matplotlib](https://matplotlib.org/)
+- Matplotlib
 
-- [scikit-learn](https://www.sklearn.org/)
+- scikit-learn
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
