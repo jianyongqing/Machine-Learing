@@ -6,7 +6,7 @@
 | [:fire:](#fire-走进机器学习的世界) | [:memo:](#memo-机器学习常用工具) |[:watermelon:](#watermelon-建模与问题解决流程) | [:art:](#art-数据预处理) |[:pencil2:](#pencil2-特征工程)|  [:floppy_disk:](#floppy_disk-机器学习算法)| [:computer:](#computer-深度学习)| [:cloud:](#cloud-自然语言处理)| [:bulb:](#bulb-计算机视觉)|
 
 <p align="center">
-	<img src="[https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/ML-all%20around%20us.png" alt="Sample"  width="400" height="300">	
+	<img src="[https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/ML-all%20around%20us.png" width="400" height="300">	
 </p>
 
 ## :fire: 走进机器学习的世界
