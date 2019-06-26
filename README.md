@@ -9,9 +9,12 @@
 
 - [走进机器学习的世界](https://github.com/jianyongqing/Machine-Learing/blob/master/Notes/%E8%B5%B0%E8%BF%9B%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%96%E7%95%8C/%E8%B5%B0%E8%BF%9B%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%96%E7%95%8C.md)
 
-<div style="align: center">
-<img src="http://upload-images.jianshu.io/upload_images/2182065-91ff11ffeb37cff2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/%E4%BA%92%E8%81%94%E7%BD%91%E5%AF%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%8F%8F%E8%BF%B0.jpg"/>
-</div>
+<p align="center">
+<a>
+  <img src="https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/%E4%BA%92%E8%81%94%E7%BD%91%E5%AF%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%8F%8F%E8%BF%B0.jpg"/>
+ </a>
+</p>
+
 ![](https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/%E4%BA%92%E8%81%94%E7%BD%91%E5%AF%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%8F%8F%E8%BF%B0.jpg)
 
 ## :memo: 机器学习常用工具
