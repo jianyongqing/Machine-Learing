@@ -1,6 +1,6 @@
 <h1 align="center">Matplotlib</h1>
 
-> 参考连接：https://matplotlib.org/ 画廊：（https://matplotlib.org/gallery.html）
+> 参考连接：https://matplotlib.org/ &emsp;&emsp; 画廊：https://matplotlib.org/gallery.html
 ![](https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/matplotlib.jpg)
 
    
