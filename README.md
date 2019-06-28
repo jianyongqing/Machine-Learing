@@ -1,6 +1,12 @@
 # Machine Learning
 
 <p align="center">
+<h1>
+	Machine Learning
+</h1>
+</p>
+
+<p align="center">
 <a>
   <img src="https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/%E4%BA%92%E8%81%94%E7%BD%91%E5%AF%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%8F%8F%E8%BF%B0.jpg"/>
  </a>
