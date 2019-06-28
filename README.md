@@ -1,5 +1,3 @@
-# Machine Learning
-
 <p align="center">
   <h1 align="center">Machine Learning</h1>
 </p>
