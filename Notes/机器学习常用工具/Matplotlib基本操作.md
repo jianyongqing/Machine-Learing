@@ -1,4 +1,4 @@
-<h1 algain="center">Matplotlib</h1>
+<h1 align="center">Matplotlib</h1>
 ![](https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/matplotlib.jpg)
 
    参考连接：https://matplotlib.org/   画廊：（https://matplotlib.org/gallery.html）
