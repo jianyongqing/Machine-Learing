@@ -133,16 +133,20 @@ plt.text(0.5, -0.25, "sin(np.pi) = 0", fontdict={'size': 16, 'color': 'r'})
 
 默认情况下，Matplotlib 中文会乱码。
 
-	>>	x = ['小明', '小红', '小白', '小东']  #注意列表中元素非数字无法简单构造成数组
-	>>	y = [80, 76, 90, 92]
-	>>	plt.plot(x, y)
-	>>	plt.show()
+```Python
+x = ['小明', '小红', '小白', '小东']  #注意列表中元素非数字无法简单构造成数组
+y = [80, 76, 90, 92]
+plt.plot(x, y)
+plt.show()
+```
 
 ![](https://i.imgur.com/yw72tqv.png)
 
 其实只需要配置下后台字体即可。
-		
-	>>	plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签
-	>>	plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+```Python
+plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+```
 
 ![](https://i.imgur.com/OwShong.png)
