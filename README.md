@@ -2,15 +2,15 @@
   <h1 align="center">Machine Learning</h1>
 </p>
 
+| 走进机器学习的世界 | 机器学习常用工具 | 建模与问题解决流程 | 数据预处理 | 特征工程 | 机器学习算法 | 深度学习 | 自然语言处理 | 计算机视觉 | 
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:|
+| [:fire:](#fire-走进机器学习的世界) | [:memo:](#memo-机器学习常用工具) |[:watermelon:](#watermelon-建模与问题解决流程) | [:art:](#art-数据预处理) |[:pencil2:](#pencil2-特征工程)|  [:floppy_disk:](#floppy_disk-机器学习算法)| [:computer:](#computer-深度学习)| [:cloud:](#cloud-自然语言处理)| [:bulb:](#bulb-计算机视觉)|
+
 <p align="center">
 <a>
   <img src="https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/%E4%BA%92%E8%81%94%E7%BD%91%E5%AF%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%8F%8F%E8%BF%B0.jpg"/>
  </a>
 </p>
-
-| 走进机器学习的世界 | 机器学习常用工具 | 建模与问题解决流程 | 数据预处理 | 特征工程 | 机器学习算法 | 深度学习 | 自然语言处理 | 计算机视觉 | 
-| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:|
-| [:fire:](#fire-走进机器学习的世界) | [:memo:](#memo-机器学习常用工具) |[:watermelon:](#watermelon-建模与问题解决流程) | [:art:](#art-数据预处理) |[:pencil2:](#pencil2-特征工程)|  [:floppy_disk:](#floppy_disk-机器学习算法)| [:computer:](#computer-深度学习)| [:cloud:](#cloud-自然语言处理)| [:bulb:](#bulb-计算机视觉)|
 
 ## :fire: 走进机器学习的世界
 
