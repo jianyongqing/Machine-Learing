@@ -1,9 +1,7 @@
 # Machine Learning
 
 <p align="center">
-<h1>
-	Machine Learning
-</h1>
+  <h1>Machine Learning</h1>
 </p>
 
 <p align="center">
