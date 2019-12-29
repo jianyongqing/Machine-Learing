@@ -1,16 +1,17 @@
 <h1 align="center">Numpy</h1>
 
-> NumPy是Python语言的一个扩充程序库。支持高级大量的维度数组与矩阵运算，此外也针对数组运算提供大量的数学函数库。
+> 简单来说，Numpy 是 Python 的一个科学计算包，包含了多维数组以及多维数组的操作。Numpy 的核心是 ndarray(n-dimension-array) 对象，这个对象封装了同质数据类型的n维数组。
 
-Numpy的官方网站是： http://www.numpy.org/
+> Numpy的官方网站是： http://www.numpy.org/
 
+    # 导入相关库
     import numpy as np
 
-### Numpy基本操作 ###
+# Numpy基本操作
 
 ----------
 
-### Numpy计算 ###
+# Numpy计算
 
 ----------
 
@@ -19,7 +20,7 @@ Numpy的官方网站是： http://www.numpy.org/
 - 数组运算
 - 矩阵运算
 
-### Numpy读取数据 ###
+# Numpy读取数据
 
 ----------
 
