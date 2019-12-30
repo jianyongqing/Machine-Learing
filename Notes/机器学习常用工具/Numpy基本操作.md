@@ -41,7 +41,7 @@ print(b)
 ```python
 import numpy as np 
 
-class Ndnaray:
+class Numpy_demo:
     def __init__(self):
         pass
 
