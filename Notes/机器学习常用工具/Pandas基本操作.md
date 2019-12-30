@@ -1,6 +1,6 @@
 <h1 align="center">Pandas</h1>
 
-> pandas是一款开放源码的BSD许可的Python库,为Python编程语言提供了高性能，易于使用的数据结构和数据分析工具。Pandas用于广泛的领域，包括金融，经济，统计，分析等学术和商业领域。
+> pandas是基于NumPy的一种工具，该工具是为了解决数据分析任务而创建的。pandas纳入了大量库和一些标准的数据模型，提供了高效地操作大型数据集所需的工具。pandas提供了大量能使我们快速便捷地处理数据的函数和方法。
 
 > Pandas的官方网站是： http://pandas.pydata.org/
 	
@@ -14,7 +14,12 @@
 
 ## 1.1 Series
 
+> Series是一个带有名称和索引的一维数组，既然是数组，肯定要说到的就是数组中的元素类型，在 Series中包含的数据类型可以是整数、浮点、字符串、Python对象等.
+
 ## 1.2 DataFrame
+
+> DataFrame是一个带有索引的二维数据结构，每列可以有自己的名字，并且可以有不同的数据类型. 你可以把它想象成一个 excel 表格或者数据库中的一张表，DataFrame是最常用的Pandas对象.
+
 
 # 二、pandas基本功能 
 
