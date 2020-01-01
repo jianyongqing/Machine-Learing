@@ -148,3 +148,35 @@ plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
 ```
 
 ![](https://i.imgur.com/OwShong.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+代码笔记:
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+class Matplotlib_demo:
+    def __init__(self):
+        pass
+
+    def plotdemo(self):
+        x = np.linspace(0,10,1000) # 作图的自变量
+        y = np.sin(x)+1 # 因变量y
+        z = np.cos(x**2)+1 # 因变量z
+
+        plt.figure(figsize=(8,4)) # 创建图像窗口并设置图像的大小
+        plt.plot(x,y,label = r'$\sinx+1$',color = 'red',linewidth = 2) # 作图x-y，设置标签、线条颜色、线条大小
+        plt.plot(x,z,'b--',label = r'$\cos(x**2)+1$') # x-z作图，设置标签、线条类型
+        plt.xlabel('Time(s)') # x轴名称
+        plt.ylabel('Volt') # y轴名称
+        plt.title('A simple Example') # 标题
+        plt.ylim(0,3) # 显示的y轴范围
+        plt.legend() # 显示图例
+        plt.show() # 显示作图结果
+
+if  __name__=='__main__':
+    a = Matplotlib_demo()
+    a.plotdemo()
+```
