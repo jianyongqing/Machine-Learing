@@ -6,11 +6,13 @@
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:|
 | [:fire:](#fire-走进机器学习的世界) | [:watermelon:](#watermelon-建模与问题解决流程) |[:memo:](#memo-机器学习常用工具) | [:art:](#art-数据预处理) |[:pencil2:](#pencil2-特征工程)|  [:floppy_disk:](#floppy_disk-机器学习算法)| [:computer:](#computer-深度学习)| [:cloud:](#cloud-计算机视觉)| [:bulb:](#bulb-自然语言处理)|
 
+``` GitHub图片插入方法
 <p align="center">
 <a>
-<img src="https://github.com/jianyongqing/Machine-Learing/blob/master/res/imgs/%E4%BA%92%E8%81%94%E7%BD%91%E5%AF%B9%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%8F%8F%E8%BF%B0.jpg"/>
+<img src="***.jpg"/>
 </a>
 </p>
+```
 
 ## :fire: 走进机器学习的世界
 
