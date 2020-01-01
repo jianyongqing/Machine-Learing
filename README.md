@@ -6,14 +6,6 @@
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:|
 | [:fire:](#fire-走进机器学习的世界) | [:watermelon:](#watermelon-建模与问题解决流程) |[:memo:](#memo-机器学习常用工具) | [:art:](#art-数据预处理) |[:pencil2:](#pencil2-特征工程)|  [:floppy_disk:](#floppy_disk-机器学习算法)| [:computer:](#computer-深度学习)| [:cloud:](#cloud-计算机视觉)| [:bulb:](#bulb-自然语言处理)|
 
-``` GitHub图片插入方法
-<p align="center">
-<a>
-<img src="***.jpg"/>
-</a>
-</p>
-```
-
 ## :fire: 走进机器学习的世界
 
 - [走进机器学习的世界](https://github.com/jianyongqing/Machine-Learing/blob/master/Notes/%E8%B5%B0%E8%BF%9B%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%96%E7%95%8C/%E8%B5%B0%E8%BF%9B%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%96%E7%95%8C.md)
@@ -98,7 +90,7 @@ X_test = sc_X.transform(X_test)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# :floppy_disk: 机器学习算法
+## :floppy_disk: 机器学习算法
 
 - 线性回归
 
